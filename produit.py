@@ -8,3 +8,6 @@ print("prix:",prix,"dt")
 quantit=int(input("donner la quantité en stock :"))
 
 print("quantité en stock :",quantité)
+
+valeur=prix*quantité
+print("valeur totale du stock:",valeur,"dt")
