@@ -5,3 +5,6 @@ print("refrenace:",ref)
 print("designatiton:",designatiton)
 print("prix:",prix,"dt")
 
+quantit=int(input("donner la quantité en stock :"))
+
+print("quantité en stock :",quantité)
